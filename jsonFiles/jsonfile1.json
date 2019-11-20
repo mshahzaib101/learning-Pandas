@@ -1,0 +1,14 @@
+{
+  "cms_prescription_counts": {
+    "CEPHALEXIN": 23, 
+    "AMOXICILLIN": 52, 
+    "HYDROCODONE-ACETAMINOPHEN": 28},
+  "provider_variables": {
+    "settlement_type": "non-urban", 
+    "generic_rx_count": 103, 
+    "specialty": "General Practice", 
+    "years_practicing": 7, 
+    "gender": "M", 
+    "region": "South", 
+    "brand_name_rx_count": 0}, 
+  "npi": "1992715205"}

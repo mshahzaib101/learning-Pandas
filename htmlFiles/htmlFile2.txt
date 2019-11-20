@@ -1,0 +1,41 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>country</th>
+      <th>GDP</th>
+      <th>Population m</th>
+      <th>Avg Age</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>PK</td>
+      <td>2</td>
+      <td>4</td>
+      <td>24</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>UK</td>
+      <td>5</td>
+      <td>7</td>
+      <td>56</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>US</td>
+      <td>6</td>
+      <td>9</td>
+      <td>45</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>IND</td>
+      <td>3</td>
+      <td>12</td>
+      <td>28</td>
+    </tr>
+  </tbody>
+</table>
